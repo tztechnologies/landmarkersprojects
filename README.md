@@ -1,2 +1,2 @@
-# lanmarkersprojects
+# landmarkersprojects
 study-group projects 
