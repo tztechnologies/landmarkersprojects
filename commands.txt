@@ -1,0 +1,7 @@
+Hello Everyone here are some linux commands
+ls 
+cp 
+df 
+scp 
+du 
+
