@@ -1,0 +1,12 @@
+ls 
+df -hP 
+echo 
+vi
+vim 
+who 
+who -b 
+uptime 
+date 
+locate 
+find 
+ps
